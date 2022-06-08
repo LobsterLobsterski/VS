@@ -1,0 +1,11 @@
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\bin\Debug\Wachadlo.exe.config
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\bin\Debug\Wachadlo.exe
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\bin\Debug\Wachadlo.pdb
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.Form1.resources
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.Properties.Resources.resources
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.exe
+C:\Users\tomas\Desktop\Wachadlo\Wachadlo\Wachadlo\obj\Debug\Wachadlo.pdb
